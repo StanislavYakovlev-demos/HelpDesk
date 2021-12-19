@@ -1,0 +1,12 @@
+Help Desk Workflow Description
+
+Participants:
+- Client
+- Support
+
+Steps:
+- Client creates a request for the problem resolution;
+- Support offers the solution;
+- Client accepts => the problem is solved;
+- Client declines => the problem is investigated further.
+
